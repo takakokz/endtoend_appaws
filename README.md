@@ -35,7 +35,7 @@ Create Lambda function and set trigger by API Post
 ![5](https://github.com/takakokz/endtoend_appaws/assets/13964231/9eda8052-857d-4896-a8e1-b02814d4ad6d)  
 ![4](https://github.com/takakokz/endtoend_appaws/assets/13964231/4972a1c2-495b-4e32-9fc1-eeae2636543a)  
 
-Create Dynamo DB then crate IAM to grant pamission for API to write result into table
+Create Dynamo DB then crate IAM policy to grant pamission for Lambda to write result into the table
 ![6](https://github.com/takakokz/endtoend_appaws/assets/13964231/548cbc2c-6faf-4cc9-8e6e-357d00107945)
 
 Update index file to call the API created  
