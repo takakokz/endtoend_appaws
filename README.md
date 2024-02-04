@@ -6,6 +6,14 @@ Input longtitude and latitude of 2 locations into input parameters then calculat
 Original  
 ![1](https://github.com/takakokz/endtoend_appaws/assets/13964231/f7ace4d0-7058-4ec8-9eff-f50a55f7f535)  
 
+Input  
+Starbucks headquarters in Seattle, WA  
+47.5975024  
+-122.3492781  
+
+Times Square in New York City, NY  
+40.7579787  
+-73.9900326  
 
 Result  
 ![2](https://github.com/takakokz/endtoend_appaws/assets/13964231/6040a3f7-dbd5-4c85-a264-d597b877de9d)  
