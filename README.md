@@ -25,3 +25,6 @@ In order to achieve it, I have created...
 3. API to invoke Lambda function created  
 4. AWS Dynamo DB then grant permission to Lambda to store/return math result into it   
 5. Add API URL to code on Amplify, so Website can send Post API to calculate a value
+
+## Process  
+![3](https://github.com/takakokz/endtoend_appaws/assets/13964231/5cd0dc05-aefa-4a2a-93a2-f446d9fe08b3)  
