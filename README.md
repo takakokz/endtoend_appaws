@@ -7,7 +7,7 @@ Original
 ![1](https://github.com/takakokz/endtoend_appaws/assets/13964231/f7ace4d0-7058-4ec8-9eff-f50a55f7f535)  
 
 Input  
-Access From here https://dev.d34vlivsdltjdj.amplifyapp.com/
+Access From here https://dev.d34vlivsdltjdj.amplifyapp.com/  
 Starbucks headquarters in Seattle, WA  
 47.5975024  
 -122.3492781  
